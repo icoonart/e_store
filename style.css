@@ -14,10 +14,10 @@ html {
     scroll-behavior: smooth;
 }
 
-.main{
+/* .main{
     background-color: hsl(0, 0%, 100%);
     width: 100vw;
-}
+} */
 
 .navbar {
     width: 100vw;
@@ -73,6 +73,11 @@ html {
 }
     .avatar {
         max-width: 30px;
+    }
+
+    .navbar{
+        background-color: hsl(0, 0%, 100%);
+        width: 100vw;
     }
 
     #nav {
