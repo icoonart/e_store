@@ -24,7 +24,7 @@ var menu = document.querySelector(".list")
 ham.addEventListener('click',function(){
     if(menu.style.display === "block"){
         menu.style.display = "none"
-        ham.innerHTML = "&#97776;"
+        ham.innerHTML = "&#97776"
     }
 
     else {
